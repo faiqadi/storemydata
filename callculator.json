@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "arithmethic": "5+4",
+      "result": "9"
+    },
+    {
+      "id": 2,
+      "arithmethic": "6+3",
+      "result": "9"
+    },
+    {
+      "id": 3,
+      "arithmethic": "5+2",
+      "result": "7"
+    },
+    {
+      "id": 4,
+      "arithmethic": "3+4",
+      "result": "7"
+    },
+    {
+      "id": 5,
+      "arithmethic": "1+4",
+      "result": "5"
+    },
+  ]
+}
